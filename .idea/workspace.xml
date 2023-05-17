@@ -5,7 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="719301f5-42e1-44b9-87bc-882bec9baf2f" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/appspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleMavenTomcatApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appspec.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/basic_health_check.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/configure_http_port.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install_dependencies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/stop_application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/write_codedeploy_config.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazonaws/labs/sampleapp/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazonaws/labs/sampleapp/MvcConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/alterations-dog4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/casual-dog2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/classy-dog1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/fancy-dog3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/sales-lobsterdog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lambda-logger-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-lambda-logger-1.0.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,17 +50,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2Pt409aMp584WhkxeEeX6Nbls1U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -34,19 +62,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/dev/logger/logRepo1",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/logger/logRepo1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\logger\logRepo1" />
@@ -66,7 +92,7 @@
       <updated>1684262821357</updated>
       <workItem from="1684262822906" duration="3245000" />
       <workItem from="1684273840437" duration="1257000" />
-      <workItem from="1684275733412" duration="4489000" />
+      <workItem from="1684275733412" duration="3459000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1684262852430</created>
@@ -117,28 +143,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684276101620</updated>
     </task>
-    <task id="LOCAL-00008" summary="First commit">
-      <created>1684280723951</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1684280723951</updated>
-    </task>
-    <task id="LOCAL-00009" summary="First commit">
-      <created>1684280764597</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1684280764597</updated>
-    </task>
-    <task id="LOCAL-00010" summary="First commit">
-      <created>1684280845337</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1684280845337</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
