@@ -1,6 +1,3 @@
 version: 0.0
 os: linux
 
-files:
-  - source: logRepo1
-    destination: /src/Main.java
