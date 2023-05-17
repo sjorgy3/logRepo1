@@ -5,6 +5,7 @@ phases:
     commands:
       - echo Build completed on `date`
       - mvn package
+      - mvn test
 
 artifacts:
   files:
